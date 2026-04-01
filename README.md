@@ -40,7 +40,7 @@ Identify key factors influencing customer ratings and sales
 -Sales Data
 
 ## Conclusion
-This analysis helps understand market trends, customer preferences, and product performance, which can support better business decisions in the e-commerce domain.
+
 
 
 
