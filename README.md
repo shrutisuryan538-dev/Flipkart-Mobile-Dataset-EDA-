@@ -19,25 +19,25 @@ Identify key factors influencing customer ratings and sales
 📌 Correlation Heatmap → Feature relationships
 
 ## Key Insights
-Certain brands dominate in both product count and total sales
-Higher discounts generally lead to increased sales
-Features like RAM, battery capacity, and display size show strong relationships
-Number of ratings highly influences sales performance
+-Certain brands dominate in both product count and total sales
+-Higher discounts generally lead to increased sales
+-Features like RAM, battery capacity, and display size show strong relationships
+-Number of ratings highly influences sales performance
 
 ## Tools & Technologies
-Python 
-Pandas
-NumPy
-Seaborn
-Matplotlib
+-Python 
+-Pandas
+-NumPy
+-Seaborn
+-Matplotlib
 
 ## Dataset
-The dataset contains information about:
-Brand & Model
-Price & Discount
-RAM, ROM, Battery Capacity
-Ratings & Number of Reviews
-Sales Data
+-The dataset contains information about:
+-Brand & Model
+-Price & Discount
+-RAM, ROM, Battery Capacity
+-Ratings & Number of Reviews
+-Sales Data
 
 ## Conclusion
 This analysis helps understand market trends, customer preferences, and product performance, which can support better business decisions in the e-commerce domain.
